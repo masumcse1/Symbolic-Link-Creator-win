@@ -1,5 +1,5 @@
 @echo off
-SET modulepath=E:\myrepo
+SET modulepath=E:\mymodulepath
 SET destination=%modulepath%\facets\java
 SET fullOriginalPath=%modulepath%\facets\maven\src\main\java
 
