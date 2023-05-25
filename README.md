@@ -1,6 +1,6 @@
 Batch file to create symbolic links in windows.
 
-  How to create a symobolic  link 
+  How to create a symobolic  link in windows
  
  step 1:  Download and save copy of Symbolic-Link-Creator v1.bat
  
